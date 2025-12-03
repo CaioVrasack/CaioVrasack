@@ -16,10 +16,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="left">
-  <img height="124em" src="https://github-readme-stats.vercel.app/api?username=CaioVrasack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
-  <img height="124em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioVrasack&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
-  <img height="124em" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioVrasack&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=bb9af7&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=CaioVrasack&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 
