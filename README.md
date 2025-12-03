@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=9aa5ce&center=true&vCenter=true&width=500&lines=Caio+Vrasack;Always+on+lazy+mode)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=9aa5ce&center=true&vCenter=true&width=500&lines=Caio+Vrasack;Discipline+and+Resiliênce+)
 
 </div>
 <div align="center">
@@ -35,20 +35,6 @@
 
 ---
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://discord.com/users/1114334219322269696">
-        <img src="https://lanyard.cnrad.dev/api/1114334219322269696" alt="Discord Presence" />
-      </a>
-    </td>
-    <td style="vertical-align:middle; padding-left:20px;">
-      <!-- Aqui substituímos a dummyimage pelo Spotify GitHub Profile -->
-      <img height="147em" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31g2hpqnprsw65dzwmknmnrclsru&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&bar_color=000000&bar_color_cover=true" alt="Spotify Profile" />
-      <p><strong>⚡ Powered by taurine and curiosity | Built with passion | Deployed with precision</strong></p>
-    </td>
-  </tr>
-</table>
 
 
 
